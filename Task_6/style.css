@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.whole-btn {
+  display: flex;
+  flex-direction: column;
+  margin: 50px auto;
+  width: 25%;
+}
+
+button {
+  margin-bottom: 20px;
+}
